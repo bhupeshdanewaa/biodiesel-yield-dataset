@@ -1,0 +1,468 @@
+Biodiesel feedstock,Sample Type,Density(g/ml at RT),Viscosity(cP at RT),molar ratio(unit oil),catalyst amount(wt%),Reaction temp©,Reaction Time(hr),catalysts,catalysts type,biodiesel yield(%)
+palm oil,edible oil,0.9,60,0.5,5,65,2.5,CaO,heterogeneous base,
+soybean oil,edible oil,0.92,60,6,25,67,5,CaO,heterogeneous base,73.8
+rapeseed oil,edible oil,0.92,34,9,3,70,3,biont shell,heterogeneous base,97.5
+rapeseed oil,edible oil,0.92,34,9,2.5,65,3,shrimp shell,heterogeneous base,89.1
+soybean oil,edible oil,0.92,60,6.27,1.01,65,5,fish scale,heterogeneous base,97.73
+mustard oil,non edible oil,0.92,36,9,3,65,6,waste shell of Turbonilla striatula,heterogeneous base,93.3
+tallow oil,animal fat,0.94,300,12,5,70,15,CaO - waste freshwater mussel shell,heterogeneous base,96
+palm olein oil,edible oil,0.91,60,0.54,4.9,,3,waste Anadara granosa shell,heterogeneous base,97.48
+waste frying oil,waste cooking oil,0.94,100,6.03,3,60,3,calcined clamshell-Mereterix mereterix,heterogeneous base,89
+soybean oil,edible oil,0.92,60,10,3.5,60,4,calcined oyster shell,heterogeneous base,85
+palm oil,edible oil,0.9,60,7,4,60,4,CaO-Pomacea sp.,heterogeneous base,95.61
+waste frying oil,waste cooking oil,0.94,100,6.03,2,60,8,calcined snail shell,heterogeneous base,87.28
+palm olein oil,edible oil,0.91,60,12,10,60,2,CaO,heterogeneous base,93.2
+palm oil,edible oil,0.9,60,18,20,60,4,CaO,heterogeneous base,96.78
+peanut oil,edible oil,0.92,45,20,18,60,4,goat animal bone,heterogeneous base,94.96
+palm oil,edible oil,0.9,60,20,99,65,44,,heterogeneous base,92.94
+soybean oil,edible oil,0.92,60,12,5,65,4,solid base catalyst - Li2CO3- modified waste peanut husk,heterogeneous base,98.4
+palm oil,edible oil,0.9,60,9,10,65,3,calcined scallop waste shell,heterogeneous base,95.44
+palm oil,edible oil,0.9,60,12,8,65,3,CaO-molluscs shell,heterogeneous base,96.77
+soybean oil,edible oil,0.92,60,15,5,65,4,calcined - chicken bones,heterogeneous base,89.33
+palm oil,edible oil,0.9,60,9,7,65,4,rice husk ash supported CaO,heterogeneous base,91.5
+waste frying oil,waste cooking oil,0.94,100,9,9,60,4,solid base CaO - waste chicken eggshell,heterogeneous base,92
+canola oil,edible oil,0.92,31,12,5,60,5,waste animal bone as support for CaO impregnation,heterogeneous base,95.18
+waste cooking oil,waste cooking oil,0.92,67,6,2,60,3,heterogeneous base catalyst - Musa balbisiana Colla peel,heterogeneous base,100
+soybean oil,edible oil,0.92,60,12,4,65,3,solid base heterogeneous catalyst,heterogeneous base,89
+canola oil,edible oil,0.92,31,12,12,60,2,Red Mud as heterogeneous base catalsyt,heterogeneous base,99.6
+jatropha oil,non edible oil,0.92,37,9,6,70,3,KOH/calcined waste animal bone,heterogeneous base,96.1
+date seed oil,edible oil,0.92,60,12,5,65,1.5,waste egg shell,heterogeneous base,93.5
+refined soybean oil,edible oil,0.92,50,10,7,57.5,3,heterogeneous alkali catalyst - waste chicken egg shell,heterogeneous base,93
+chicken fat,animal fat,0.9,250,13,8.5,57.5,5,calcined chicken eggshell,heterogeneous base,90.41
+rapeseed oil,edible oil,0.92,34,9,4,60,1,CaO-heterogenous base catalyst - waste eggshell,heterogeneous base,95.12
+used cooking oil,waste cooking oil,0.92,67,10,1.98,65,1.54,CaO - waste chicken and fish bones,heterogeneous base,89.5
+soybean oil,edible oil,0.92,60,12,7,65,0.42,heterogeneous base catalyst - waste Brassica nigra plant,heterogeneous base,98.79
+waste cooking oil,waste cooking oil,0.92,67,15,5,60,4,ostrich(Struthio camelus) bone sample,heterogeneous base,90.56
+sunflower oil,edible oil,0.92,60,12,7,65,0.67,heterogeneous base catalyst - waste Sesamum indicum plant,heterogeneous base,98.9
+rubber seed oil,non edible oil,0.93,150,9,5,65,4,CaO - eggshell,heterogeneous base,97.84
+waste cooking oil,waste cooking oil,0.92,67,9,6,65,3,CaO - heterogenous base catalyst - waste oyster shell,heterogeneous base,87.3
+waste frying oil,waste cooking oil,0.94,100,15,4,65,2.5,waste chicken eggshell,heterogeneous base,93.27
+waste cooking oil,waste cooking oil,0.92,67,15,3.5,65,2.5,waste rice straw,heterogeneous base,97.3
+soybean oil,edible oil,0.92,60,6,6,65,2,calcine moringa leaves,heterogeneous base,86.7
+palm kernel oil,edible oil,0.85,225,8,4,65,3,CaO,heterogeneous base,86
+palm oil,edible oil,0.9,60,6,0.92,60,5,TiO2 - ZnO,heterogeneous base,92.2
+rapeseed oil,edible oil,0.92,34,12,3,70,3,KF/CaO-MgO,heterogeneous base,95
+soybean oil,edible oil,0.92,60,16,6,60,2,ZrO2/C4H4O6HK,heterogeneous base,98.03
+soybean oil,edible oil,0.92,60,18,0.1,225,1,Nano-MgO on TiO2,heterogeneous base,95
+soybean oil,edible oil,0.92,60,25,1.3,60,1,Sr3Al2O6,heterogeneous base,95.7
+soybean oil,edible oil,0.92,60,40,4,175,1,Al2O3/ZrO2/WO3,heterogeneous base,100
+sunflower mustard oil,edible oil,0.92,37,20,3,200,5,Zirconia supported HPA,heterogeneous base,97
+sunflower oil,edible oil,0.92,60,6,10,60,6,CaO Nanoparticles/NaX Zeolite,heterogeneous base,93.5
+waste cooking oil,waste cooking oil,0.92,67,12,4,35,3,La3+/ZnO-TiO2 photocatalyst,heterogeneous base,96.14
+waste cooking oil,waste cooking oil,0.92,67,15,2,60,1,Fe2(SO4)3,heterogeneous acid,59.2
+waste frying oil,waste cooking oil,0.94,100,8,10,60,1.5,Magnetic graphene oxide,heterogeneous base,94
+waste cooking oil,waste cooking oil,0.92,67,0.44,8.5,63.1,0.01667,Calcined cow bone,heterogeneous base,99.24
+waste cooking oil,waste cooking oil,0.92,67,10,10,110,10,Sulfonated carbon microsphere,heterogeneous acid,89.6
+waste cooking oil,waste cooking oil,0.92,67,6,5,65,2,Calcined scallop shell,heterogeneous base,86
+waste cooking oil,waste cooking oil,0.92,67,7,3,75,6,CaO-MgO,heterogeneous base,98.95
+grease interceptor,grease,1.1,2000,20,1,50,48,Fe2(SO4)3,heterogeneous acid,93
+grease,grease,1.1,2000,33,4,122,24,Phosphotungstic acid-poly(glycidylmethacrylate)-magnetic nano particles,heterogeneous acid,96
+chicken fat,animal fat,0.9,250,12,4,60,1.5,Turritella terebra shell Cao,heterogeneous base,94.03
+jatropha oil,non edible oil,0.92,37,12,5,65,2,Lithium ion impregnated CaO,heterogeneous base,99
+karanja oil,non edible oil,0.945,45,12,5,65,1,Lithium ion impregnated CaO,heterogeneous base,99
+rubber seed oil,non edible oil,0.93,150,9,9,65,0.667,Sodium metasilicate,heterogeneous base,97
+neem oil,non edible oil,0.91,40,10,10,55,1,Copper doped zinc oxide,heterogeneous base,97.18
+jatropha oil,non edible oil,0.92,37,24,4,65,6,CaO/La2O3,heterogeneous base,86.51
+jatropha oil,non edible oil,0.92,37,15,2,150,4,Bi2O3-La2O3,heterogeneous base,93
+jatropha oil,non edible oil,0.92,37,5,0.1,100,3,CaO-Al2O3,heterogeneous base,82.3
+pongamia oil,non edible oil,0.94,45,10,12,55,0.9167,Fe/ZnO,heterogeneous base,93
+attalea speciosa oil,non edible oil,0.87,40,5,1.64,70,3,Co(II) ions adsorbed chitosan,heterogeneous base,86.65
+madhuca indica oil,edible oil,0.9,55,8,2.5,65,2.5,CaO,heterogeneous base,96
+algal lipid,algae,0.925,30,30,3,80,2.5,Ca(OCH3)2,heterogeneous base,99
+algal oil,algae,0.935,75,9,1.25,55,1,CaO,heterogeneous base,96.3
+chlorella vulgaris,algae,0.94,75,8,12,60,0.75,KF/CaO,heterogeneous base,93.07
+scenedesmus sp. oil,algae,0.94,50,60,4,50,0.334,WO3/ZrO2,heterogeneous acid,71
+jatropha oil,non edible oil,0.92,37,5,3,60,2,CaO,heterogeneous base,96.2
+karanja oil,non edible oil,0.945,45,12,2,58,2,CaO,heterogeneous base,97.3
+cotton seed oil,edible oil,0.925,57,9,2,85,2,peanut shell carbonized and sulfonated - strong solid acid,heterogeneous acid,90.2
+canola oil,edible oil,0.92,31,10,5,150,3,biochar -activated with KOH and sulfonated - strong acid catalyst,heterogeneous acid,48.1
+cotton seed oil,edible oil,0.925,57,16.8,0.2,220,4.5,carbonized vegeatable oil asphalt sulfonated - carbon based solid acid catalyst,heterogeneous acid,94.8
+calophyllum inophyllum oil,non edible oil,0.925,60,30,7.5,180,5,glucose carbonized and sulfonated - carbon catalyst,heterogeneous acid,99
+waste cooking oil,waste cooking oil,0.92,67,10,10,140,0.5,oat hull carbonized and sulfonated - carbon based acid catalyst,heterogeneous acid,75
+palm oil,edible oil,0.9,60,30,6,60,6,coconut shell carbonized and sulfonated - solid acid,heterogeneous acid,88.15
+sunflower oil,edible oil,0.92,60,9,3,65,6,palm kernel shell calcined - CaO based catalyst,heterogeneous base,99
+acetic acid,edible oil,1.04,1.22,0.2,34.5,88,,H2SO4 - magnetic carbon acid catalyst,heterogeneous acid,93
+jatropha oil,non edible oil,0.92,37,24,10,200,10,H2SO4 - magnetic carbon acid catalyst,heterogeneous acid,90.5
+soybean oil,edible oil,0.92,60,9,65,65,1.7,Na2SiO3 - magnetic base catalyst,heterogeneous base,98.1
+pistacia chinensis seed oil,non edible oil,0.918,60,10,15,60,1.3,CS2/Fe ions - magnetic heteropolyacid catalyst,heterogeneous acid,93.1
+microalgae,algae,0.87,50,12,4,65,6,Fe ions,heterogeneous base,95.6
+oleic acid,edible oil,0.895,4.85,15,4,80,3,Fe ions/toluennesulfonic acid monohydrate,heterogeneous base,96.7
+soybean oil,edible oil,0.92,60,8,2.5,60,1,Fe ions/ KNO3,heterogeneous base,98
+jatropha oil,non edible oil,0.92,37,12,10,90,2,H2SO4,heterogeneous base,92.44
+jatropha oil,non edible oil,0.92,37,9,7,65,2,Na2SiO3,heterogeneous base,96.7
+cotton seed oil,edible oil,0.925,57,6,5,60,1.667,Fe3O4,heterogeneous base,99.6
+sunflower oil,edible oil,0.92,60,20,3,78,3,CaZn(OH)4,heterogeneous base,95
+olive oil,edible oil,0.92,74,6,5,65,0.25,SrO,heterogeneous base,82
+fried oil,waste cooking oil,0.92,75,6,5,65,3,K3PO4,heterogeneous base,78
+karanja oil,non edible oil,0.945,45,6,5,65,1,Li/CaO,heterogeneous base,99
+palm oil,edible oil,0.9,60,8,3,60,6,"Capiz Shell, Cao",heterogeneous base,94
+soybean oil,edible oil,0.92,60,24,12,60,8,"Museel shell, CaO",heterogeneous base,94
+canola oil,edible oil,0.92,31,20,3,192,2,Templated-MgO,heterogeneous base,98
+soybean oil,edible oil,0.92,60,21,3,65,4,MgAlFe hydrotalcite,heterogeneous base,81
+soybean oil,edible oil,0.92,60,32,0.5,120,6,K/Al2O3 - Monolith,heterogeneous base,60
+microalgae oil,algae,0.935,25,6,3,65,3,CaO/dolomite catalyst,heterogeneous base,90
+waste cotton seed oil,waste cooking oil,0.919,44,7,0.65,,,KOH-CaO,heterogeneous base,96.44
+waste cooking oil,waste cooking oil,0.92,67,15,4,65,1.5,Carbon extracted from date seed modified with ca and Mg oxides,heterogeneous base,94.27
+waste cooking oil,waste cooking oil,0.92,67,1,1,65,4,"Hybrid CaO/Al2O3 aerogels 3:1, CaO/Al2O3",heterogeneous base,89.9
+castor oil,non edible oil,0.96,450,12,6,75,1,Carbon-based magnesium oxide(MgO),heterogeneous base,96.5
+oleic acid,edible oil,0.895,4.85,20,10,100,7,HZSM-5 Zeolite,heterogeneous acid,81
+waste frying oil,waste cooking oil,0.94,100,15,1,205,4,Fe(HSO4)3,heterogeneous acid,95
+soybean oil,edible oil,0.92,60,30,5,180,5,30% WO3/AlPO4,heterogeneous acid,73
+palm oil,edible oil,0.9,60,20,6,140,2,Crude SiO2-Tosic acid,heterogeneous acid,65
+palmitic acid,edible oil,0.88,60,33,3,65,5,Sulfonated carbon nano-horn,heterogeneous acid,93
+oleic acid,edible oil,0.895,4.85,5,10,100,6,Sulfate LaO,heterogeneous acid,95.5
+polanga oil,non edible oil,0.922,65,30,7.5,180,5,Sulfonated carbon,heterogeneous acid,98.5
+oleic acid,edible oil,0.895,4.85,5,10,100,7,Sulfated LaO/HZSM-5,heterogeneous acid,99.8
+soybean oil,edible oil,0.92,60,4,,65,8,30% Tungastosicic acid/Zeolite H'B',heterogeneous acid,95
+microalgal oil,algae,0.935,25,12,2.5,65,2,Spirulina platensis.('B'-Sr2SiO4),heterogeneous acid,76.34
+soybean oil,edible oil,0.92,60,50,6,65,50,40% CaO-MoO3-SBA -15,heterogeneous base,83.2
+jatropha curcas oil,non edible oil,0.92,37,25,3,150,3,CaO-La2O3,heterogeneous base,98.76
+waste cooking oil,waste cooking oil,0.92,67,40,3,200,3,ZnO-La2O3,heterogeneous base,96
+jatropha curcas oil,non edible oil,0.92,37,15,2,150,4,5Bi2O3-La2O3,heterogeneous base,93
+waste cooking oil,waste cooking oil,0.92,67,20,3,180,4,Fe2O3-Mn-SO4/ZrO2,heterogeneous base,96.5
+coconut oil,edible oil,0.92,15,16,3.3,182,6,Mg0.7Zn1.3Al0.67O3,heterogeneous base,98
+waste cooking oil,waste cooking oil,0.92,67,27,5,100,4,Mo-Mn/y-Al2O3-15wt%Mg),heterogeneous base,91.4
+jatropha curcas oil,non edible oil,0.92,37,20,2,105,2,Ca-B(700),heterogeneous base,96
+jatropha curcas oil,non edible oil,0.92,37,40,7,160,4,Zn8-Fe-C400,heterogeneous base,100
+waste cooking oil,waste cooking oil,0.92,67,10,15,75,5,2.6SrO-Zn)/Al2O3,heterogeneous base,95.7
+coffee oil,non edible oil,0.915,55,12,10,78,2,Quintinite-3 T,heterogeneous base,98.97
+jatropha curcas oil,non edible oil,0.92,37,30,5,160,4,Mg-Al,heterogeneous base,93.4
+mustard oil,non edible oil,0.92,36,12,7,65,6,FZ-HT,heterogeneous base,93.4
+soybean oil,edible oil,0.92,60,13,5,230,1,mg-Al hydrotalcites,heterogeneous base,90.7
+rapeseed oil,edible oil,0.92,34,10,4,200,2,HZN-2,heterogeneous base,98.02
+microalgal lipids,algae,0.95,37,20,1,200,1.5,HPW/ZIF,heterogeneous base,98.5
+eruca sativa gars seed oil,non edible oil,0.925,65,9,9,65,12,Ly2HPW,heterogeneous base,93
+soybean oil,edible oil,0.92,60,12,2,180,2,"Zn(4,4-bipy)(Oac)2",heterogeneous base,98.1
+degummed palm oil,edible oil,0.92,55,6,6,60,4.5,Fe/DS-HMS-NH2,heterogeneous base,85.39
+waste cooking oil,waste cooking oil,0.92,67,12,5,80,4,PKSAC-K2CO3-CuO,heterogeneous base,95
+waste cooking oil,waste cooking oil,0.92,67,15,2,70,2,waste egg shell,heterogeneous base,96.2
+palm fatty acid distillate,non edible oil,0.93,200,15,5,80,3,CAWS-SO4,heterogeneous base,98
+stillingia oil,non edible oil,0.93,60,12,4,65,3,KF/CaPO-Fe3O4,heterogeneous base,95
+waste cooking oil,waste cooking oil,0.92,67,8,1,50,1.5,CaO,heterogeneous base,96
+soybean oil,edible oil,0.92,60,12,8,65,6,CaO,heterogeneous base,93
+waste cooking oil,waste cooking oil,0.92,67,18,3,65,4,MnFe2O4/GO,heterogeneous base,96.47
+rapeseed oil,edible oil,0.92,34,12,0.8,35,0.58,Li/Fe3O4,heterogeneous base,99.8
+chicken oil,animal fat,0.9,250,15,3,70,4,CaO/CuFe2O4,heterogeneous base,94.52
+chicken oil,animal fat,0.9,250,12,3,65,4,CaO/CuFe2O4-AC,heterogeneous base,95.6
+sunflower oil,edible oil,0.92,60,10,2,60,4,CaO-ZnO,heterogeneous base,97.5
+sunflower oil,edible oil,0.92,60,18,3,65,5,MgO-La2O3,heterogeneous base,97.7
+moringa oleifera seed,edible oil,0.925,35,12,1,45,4,MgO,heterogeneous base,93.69
+waste edible oil,non edible oil,0.915,125,7,3,75,6,CaO/MgO,heterogeneous base,98.95
+waste cooking oil,waste cooking oil,0.92,67,8,12,55,0.83,Copper/zinc oxide,heterogeneous base,97.71
+waste cooking oil,waste cooking oil,0.92,67,5.5,0.9,60,0.75,Sr-Al double oxides,heterogeneous base,99.4
+cotton seed oil,edible oil,0.925,57,54,5,65,0.33,LaMgO,heterogeneous base,96
+microalgae,algae,0.87,50,15,3.5,60,4,Mn-ZnO,heterogeneous base,87.5
+waste sheep fat,animal fat,0.92,750,15,8,65,5,Nano-sulfated zirconia,heterogeneous base,98.7
+Nannochloropsis sp. Microalgae,algae,0.925,125,30,3,80,3,Ca(OCH3)2,heterogeneous base,99
+microalgae,algae,0.87,50,9,1.5,60,,CaO,heterogeneous base,96.3
+microalgae,algae,0.87,50,9,1.25,55,,CaO,heterogeneous base,96.3
+lard oil,edible oil,0.92,75,5.5,0.9,50,0.75,Sr-Al double oxides,heterogeneous base,99.7
+waste cooking oil,waste cooking oil,0.92,67,9,4,95,5,SO4/Mg-Al-Fe3O4,heterogeneous base,98.5
+poultry fat,animal fat,0.92,100,70,1,25,6,Nanocrystalline CaO,heterogeneous base,100
+tallow seed,non edible oil,0.94,300,12,4,65,2.5,KF/CaO,heterogeneous base,96.8
+soybean oil,edible oil,0.92,60,25,3,65,8,Fe3O4/MCM-41,heterogeneous base,99.2
+soybean oil,edible oil,0.92,60,12,6,65,2,Li2ZrO2,heterogeneous base,99
+soybean oil,edible oil,0.92,60,16,6,65,2,Na2ZrO2,heterogeneous base,96.4
+soybean oil,edible oil,0.92,60,12,8,65,2,K2ZrO2,heterogeneous base,89.3
+palm oil,edible oil,0.9,60,5,,,,"copper nanoparticles-benzene-1,3,5- tricarboxylic acid-MOF",heterogeneous base,91
+sunflower oil,edible oil,0.92,60,15,3,170,8,Fe-Zn,heterogeneous base,92
+soybean oil,edible oil,0.92,60,12,5,65,3,ZnO-Sr(NO3)2,heterogeneous base,94.7
+soybean oil,edible oil,0.92,60,20,5,120,1,S-ZrO2,heterogeneous base,98.6
+soybean oil,edible oil,0.92,60,55,5,130,7,ZnO,heterogeneous base,24
+sunflower oil,edible oil,0.92,60,3,2,60,5,ZrO2-La2O3,heterogeneous base,84.9
+soybean oil,edible oil,0.92,60,40,4,175,12,TiO2/ZrO2,heterogeneous base,95
+waste cooking oil,waste cooking oil,0.92,67,18,3,200,10,ZS/Si,heterogeneous base,98
+vegetable oil,edible oil,0.92,45,19.4,0.2,75,1,WO3/ZrO2,heterogeneous base,70
+jatropha curcas oil,non edible oil,0.92,37,15,3,70,2,sulfated tin oxide,heterogeneous base,97
+cooking oil,edible oil,0.92,45,12,7.5,60,6,CaO,heterogeneous base,95.4
+refined palm oil,edible oil,0.92,45,12,5,,6,CaO,heterogeneous base,86.75
+waste cooking oil,waste cooking oil,0.92,67,6,5.8,25,11,CaO,heterogeneous base,97
+pre-treated waste cooking oil,waste cooking oil,0.92,45,6,1,60,8,Barium doped CaO,heterogeneous base,100
+waste cooking palm oil,waste cooking oil,0.92,45,15,3,80,3,Mo-Zr doped CaO,heterogeneous base,90.1
+used cooking oil,waste cooking oil,0.92,67,9,3,65,1,"alkali metals L, Na, K",heterogeneous base,98.2
+rubber seed oil,non edible oil,0.93,150,15,3.5,55,1,activated carbon supported KOH,heterogeneous base,89.81
+palm stearin,edible oil,0.94,60,20,10.5,60,4,activated carbon supported alkali earth metals,heterogeneous base,95.3
+refined palm oil,edible oil,0.92,45,2,7.5,65,3,activated carbon supported CaO and NaOH,heterogeneous base,95.12
+oleic acid,edible oil,0.895,4.85,7,6,90,2,direct sulfonation H2SO4,heterogeneous acid,98.4
+caprylic acid,edible oil,0.91,2.5,3,5,60,4,direct sulfonation H2SO4,heterogeneous acid,71.5
+c. inophyllum oil,non edible oil,0.92,165,1.1,6,150,5,direct sulfonation H2SO4,heterogeneous acid,36.4
+jatropha curcas oil,non edible oil,0.92,37,12,7.5,60,1,direct sulfonation H2SO4,heterogeneous acid,99.13
+waste palm oil,waste cooking oil,0.935,350,12,5,67,10,direct sulfonation H2SO4,heterogeneous acid,92.7
+karanja oil,non edible oil,0.945,45,45,20,160,4,in situ partial carbonization with sulfonation/conc. H2SO4,heterogeneous acid,99.5
+oleic acid,edible oil,0.895,4.85,12,20,60,2,in situ partial carbonization with sulfonation/conc. H2SO4,heterogeneous acid,94
+oleic acid,edible oil,0.895,4.85,3,3,60,4,direct sulfonation/fumming sulfuric acid,heterogeneous acid,92
+palmitic acid,edible oil,0.88,60,6,,57,6,direct sulfonation/sulfur trioxide,heterogeneous acid,97
+aliphatic acid,edible oil,0.92,5,10,1.2,70,10,arylation/4-benzene-diazonium sulfonate,heterogeneous acid,52
+oleic acid,edible oil,0.895,4.85,20,3,64,10,arylation/4-benzene-diazonium sulfonate,heterogeneous acid,97
+mahua oil,edible oil,0.922,90,7,8,50,0.833333333,manganese-ZnO,heterogeneous base,97
+madhuca oil,edible oil,0.9,55,6,0.6,55,5,hetero-polyacid coated ZnO,heterogeneous base,95
+simarouba oil,edible oil,0.915,35,9,1.5,64,2,Ag-ZnO,heterogeneous base,84.5
+castor oil,non edible oil,0.96,450,12,14,55,0.833333333,iron (II) doped ZnO,heterogeneous base,90
+soybean oil,edible oil,0.92,60,20,4,180,1,copper ion coupled zinc oxide nanoferrites,heterogeneous base,85
+castor oil,non edible oil,0.96,450,8,11,55,1,nickel doped zinc,heterogeneous base,95.2
+canola oil,edible oil,0.92,31,15,4,65,6,ZnO/BiFeO3,heterogeneous base,95.43
+mesua ferrea oil,non edible oil,0.915,125,9,2.5,60,3,cobalt doped ZnO,heterogeneous base,98.03
+soybean oil,edible oil,0.92,60,9,3,65,3,calcium oxide microsphere with nanopores,heterogeneous base,98.72
+rapeseed oil,edible oil,0.92,34,15,6,65,6,Ca/Al/Fe3O4 magnetic composite solid catalyst,heterogeneous base,98.71
+jatropha oil,non edible oil,0.92,37,5.15,0.02,60,2.218333333,heterogenous CaO,heterogeneous base,98.54
+canola oil,edible oil,0.92,31,3,3,65,8,K2CO3-CaO nanocatalyst,heterogeneous base,97.67
+sunflower oil,edible oil,0.92,60,9,3,65,3,CaO-AU NPs,heterogeneous base,97
+soybean oil,edible oil,0.92,60,12,1,70,3,MgFe2O4 supported CaO,heterogeneous base,98.3
+soybean oil,edible oil,0.92,60,11,3.68,60,2,CaO nanocatalyst,heterogeneous base,97.61
+moringa oleifera oil,non edible oil,0.925,35,0.3,4,65,2.5,CuO-CaO nanocatalyst,heterogeneous base,95.24
+sunflower oil,edible oil,0.92,60,12,3,110,3,MgO/MgAl2O4,heterogeneous base,95
+oil from goat fat,animal fat,0.915,115,12,1,70,3,MgO nanocatalyst,heterogeneous base,93.12
+sunflower oil,edible oil,0.92,60,9,5,70,6,MgO over cerium-doped MCM-41 nanocatalyst,heterogeneous base,94.3
+waste cooking oil,waste cooking oil,0.92,67,24,2,65,1,MgO nanocatalyst,heterogeneous base,93.3
+waste cooking oil,waste cooking oil,0.92,67,6,3,50,6,MgO-NaOH nanocatalyst,heterogeneous base,97
+used cooking oil,waste cooking oil,0.92,67,9,1.5,75,3,Ti(SO4)O,heterogeneous base,97.1
+used cooking oil,waste cooking oil,0.92,67,15,4.5,60,9,Ti)2/PrSO3H,heterogeneous base,98.3
+soybean oil,edible oil,0.92,60,20,15,100,2,sulfated Fe2O3-TiO2,heterogeneous base,90
+silybummarianum oil,edible oil,0.93,55,15,6,60,2,KOH modified Zirconia,heterogeneous base,90.8
+oleic acid,edible oil,0.895,4.85,8,0.2,67,2,Zirconia coupled alumina,heterogeneous base,90.11
+palmitic acid,edible oil,0.88,60,20,6,60,6,sulphated Zirconia,heterogeneous base,90
+jatropha oil,non edible oil,0.92,37,4,1,30,1.5,Mg/Al,heterogeneous base,95.2
+soybean oil,edible oil,0.92,60,9,5,67,4,cerium modified Mg/Al,heterogeneous base,90.2
+pongamia oil,non edible oil,0.94,45,6,1,65,4,Mg/Al,heterogeneous base,90.8
+palm oil,edible oil,0.9,60,12,5,65,0.166666667,KF/Ca-Mg-Al hydrotalcite,heterogeneous base,99.6
+soybean oil,edible oil,0.92,60,3,0.0125,100,3.5,Kna/ZIF 8,heterogeneous base,98
+castor oil,non edible oil,0.96,450,15,70,55,7,KOH/zeolite,heterogeneous base,92.11
+jatropha curcas,non edible oil,0.92,37,20,4,90,2,TiO2/SiO42-,heterogeneous acid,97
+jatropha curcas,non edible oil,0.92,37,12,10,60,2,SiO2.Hf,heterogeneous acid,96
+pongamia pinnata,non edible oil,0.94,45,6,0.8,60,0.416666667,Amberlite IR 120 H,heterogeneous acid,95
+pongamia pinnata,non edible oil,0.94,45,6,1,60,0.416666667,Amberlite 1200H,heterogeneous acid,96
+acidified cotton seed oil,edible oil,0.93,65,9,3,200,6,SO42-/TiO2-SiO2,heterogeneous acid,92
+cerberra odollam,non edible oil,0.915,65,8,6,180,3,SO42-/ZrO,heterogeneous acid,84
+jatropha curcas,non edible oil,0.92,37,15,3,180,2,SO42-/SnO2--SiO2,heterogeneous acid,97
+moringa oleifera,edible oil,0.925,35,5,3,150,2.5,SO42-/SnO2--SiO2,heterogeneous acid,84
+croton megalocarpus,non edible oil,0.92,45,15,3,180,2,SO42-/SnO2--SiO3,heterogeneous acid,95
+jatropha curcas,non edible oil,0.92,37,9,7.61,150,4,ZrO2-Al2O3,heterogeneous acid,90.32
+jatropha curcas,non edible oil,0.92,37,12,5,160,6,KSF clay amberlyst,heterogeneous acid,70
+calophyllum inophyllum,non edible oil,0.925,60,15,5,180,4,sulfated PAHs,heterogeneous acid,99
+jatropha curcas oil,non edible oil,0.92,37,9,1.5,70,2.5,commerical CaO,heterogeneous base,93
+jatropha curcas,non edible oil,0.92,37,15,4,64.85,6,CaMgO,heterogeneous base,80
+jatropha curcas,non edible oil,0.92,37,15,5,65,6,CaO-NiO,heterogeneous base,86.3
+jatropha curcas,non edible oil,0.92,37,24,4,65,6,CaO-La2O3,heterogeneous base,86.5
+pongamia pinnata,non edible oil,0.94,45,12,5,65,1.5,Li/CaO,heterogeneous base,99
+jatropha curcas,non edible oil,0.92,37,25,3,120,3,MgO-ZnO,heterogeneous base,83
+attalea speciosa oil,edible oil,0.87,40,5,1.64,70,3,Cu,heterogeneous base,71.89
+jatropha curcas,non edible oil,0.92,37,,1.5,60,6,KNO3/Al2O3,heterogeneous base,84
+jatropha curcas,non edible oil,0.92,37,15,7,65,8,KNO3/Al2O4,heterogeneous base,91.3
+jatropha curcas,non edible oil,0.92,37,9,3,,0.25,Naa/SiO2,heterogeneous base,98
+jatropha curcas,non edible oil,0.92,37,11,8,182,6,MgZnAlO,heterogeneous base,94
+silybum merianum,edible oil,0.93,40,16,5,60,0.5,TiO.7-600-6,heterogeneous base,90.1
+pongamia pinnata,non edible oil,0.94,45,8,2.5,65,2.5,CaO,heterogeneous base,95
+mesua ferrea linn,edible oil,0.93,40,10,5,65,4,Li dopped egg-derived CaO,heterogeneous base,94
+jatropha curcas,non edible oil,0.92,37,15,4,99.85,0.5,CaFe2O4-Ca2Fe2O5,heterogeneous acid-base,78.2
+jatropha curcas,non edible oil,0.92,37,6,5,60,3,La2O3-ZnO,heterogeneous acid-base,30.1
+cerberra odollum,non edible oil,0.93,40,10,4,155,2,montmorillonite KSF,heterogeneous acid-base,48.3
+canola oil,edible oil,0.92,31,18,5,60,3,sulphonated biochar,heterogeneous acid,92
+palmitic acid and tributyin,edible oil,0.91,7,20,,65,5,SWCNHs with Fe/Fe2O3 nanoparticles,heterogeneous acid,90
+rapeseed oil,edible oil,0.92,34,20,20,65,6,cellulose derived sulphonated catalyst,heterogeneous acid,93.4
+mesuaferrea linn oil,edible oil,0.915,37,20,5,120,24,mesoporous sulphonated carbon catalyst,heterogeneous acid,91
+waste cooking oil,waste cooking oil,0.92,67,20,5,110,15,sulphonated pyrolyzed rice husk,heterogeneous acid,87.57
+wet microalgae,algae,1.05,50,20,5,90,0.666666667,GO sold acid catalyst,heterogeneous acid,95.1
+palm fatty acid distillate,non edible oil,0.93,200,12.2,2.9,65,2.233333333,sulphonated glucose solid acid catalyst,heterogeneous acid,92.4
+levulinic acid,non edible oil,1.14,2.8,5,5,60,1,sulphonated hydrothermal carbons,heterogeneous acid,91.5
+microalgal oil,algae,0.935,25,10,5,100,1,sulphonated biochar,heterogeneous acid,98.2
+silybummarianum l.seed oil,edible oil,0.925,75,15,6,68,3,polythene waste derived sulphonated carbon catalyst,heterogeneous acid,90
+oleic acid,edible oil,0.895,4.85,10,10,67,4,sulphonated coal-based catalyst,heterogeneous acid,97.29
+waste cooking oil,waste cooking oil,0.92,67,10,10,140,0.25,sulfonic biochar,heterogeneous acid,90
+waste vegetable oil,waste cooking oil,0.92,125,16.8,0.2,220,4.5,carbon-based solid catalysts,heterogeneous acid,94.8
+soybean soap stocks,non edible oil,0.97,400,9,7,70,5,lignin-derived carbonaceous catalyst,heterogeneous acid,97
+calophyllum inophyllum,non edible oil,0.925,60,0.076,1.1,180,5,sulphonated carbon catalyst,heterogeneous acid,99
+cotton seed oil,edible oil,0.925,57,18.2,0.2,260,3,carbonized vegetable oil asphalt catalyst,heterogeneous acid,89
+waste cooking oil,waste cooking oil,0.92,67,30,3,80,6,carbonized supported ferric sulphate,heterogeneous acid,98.4
+acetic acid,edible oil,1.04,1.22,20,10,90,10,sulphonated porous carbon catalysts,heterogeneous acid,94
+palmitic and stearic acids,edible oil,0.9,23,6,5,57,6,biochar derived sulphonated AC,heterogeneous acid,97
+palmitic acid,edible oil,0.88,60,1.33,3,64,5,sulphonated single-walled carbon nanohorns,heterogeneous acid,93
+oleic acid,edible oil,0.895,4.85,20,3,64,10,de-oiled seed waste cake derived catalyst,heterogeneous acid,97
+rapeseed oil,edible oil,0.92,34,20,10,65,7,4-sulfopheny activated carbon,heterogeneous acid,95
+levulinic acid,non edible oil,1.14,2.8,7,2,78,4,arylsulfonic carbon spheres,heterogeneous acid,99.9
+jatropha oil,non edible oil,0.92,37,1,0.1,200,1,carbonaceous ti-incorporated SBA-15,heterogeneous acid,86.1
+oleic acid,edible oil,0.895,4.85,12,5,80,5,lignin derived carbon catalyst,heterogeneous acid,95.5
+palm oil,edible oil,0.9,60,20,10,100,14,sulphonated graphene catalyst,heterogeneous acid,98
+waste oil,waste cooking oil,0.92,67,20.9,0.3,200,5,asphalt derived catalyst,heterogeneous acid,97.5
+microalgal oil,algae,0.935,25,,5,80,12,microalgae residue based carbon catalyst,heterogeneous acid,98
+oleic acid,edible oil,0.895,4.85,10,10,80,8,sulphonated carbon catalysts prepared from sugar,heterogeneous acid,95
+pongamia glabra oil,non edible oil,0.94,45,45,20,160,4,SO3H-carbon catalyst derived from glycerol,heterogeneous acid,99
+waste fish oil,animal fat,0.92,90,14.85,11.04,55,1,sulphonated activated carbon,heterogeneous acid,88
+acid oil,edible oil,0.95,225,18,0.5,66,3,sulphonated mesoporous carbon catalysts,heterogeneous acid,94.6
+canola oil,edible oil,0.92,31,60,7.5,65,24,de-oiled canola meal derived catalyst,heterogeneous acid,93.8
+palm fatty acid distillate,non edible oil,0.93,200,20,2,170,3,sulphonted multi-walled carbon nanotubes,heterogeneous acid,84.9
+palm fatty acid distillate,non edible oil,0.93,200,12,10,60,2,coconut shell derived AC,heterogeneous acid,91
+palm fatty acid distillate,non edible oil,0.93,200,10,2,75,3,sulphonated starch solid,heterogeneous acid,94.6
+triolein,edible oil,0.913,54.6,10,5,80,12,B-cyclodextrin derived carbon catalyst,heterogeneous acid,90
+oleic acid,edible oil,0.895,4.85,20,2,70,2,ordered mesoporous carbon,heterogeneous acid,85
+jatropha oil,non edible oil,0.92,37,18,7.5,180,7.5,magnetic carbonaceous acids derived from hydrolysates of jatropha hulls,heterogeneous acid,95.9
+waste sunflower oil,waste cooking oil,0.9,250,2,5,65,1.5,heterocarbon catalyst,heterogeneous acid,82
+mesua ferrera oil,edible oil,0.92,50,6,10,55,2,sulphonated carbo catalyst from waste residue,heterogeneous acid,95.57
+palmitic acid,edible oil,0.88,60,5,20,65,2,SO3-Na-Carbon catalyst from glycerol,heterogeneous base,99
+bitter almond oil,non edible oil,0.92,7,9,2.5,65,2.5,potassium acetate supported on activated carbon,heterogeneous base,93.21
+waste cooking oil,waste cooking oil,0.92,67,15,7.5,65,6.5,CaO derived from chicken manure,heterogeneous base,90.8
+rubber seed oil,non edible oil,0.93,150,9,4.5,60,1,AC supported Fe catalyst,heterogeneous base,97.5
+tricaprylin,edible oil,0.946,10,1,0.12,64,5,carbon nanohorns dispersed with calcium ferrite,heterogeneous base,100
+waste date pits oil,waste cooking oil,0.905,32.35,9,6,65,1,biomass derived catalyst,heterogeneous base,91.6
+rapeseed oil,edible oil,0.92,34,12,20,200,8,gasified straw slag catalyst,heterogeneous base,95
+waste cooking oil,waste cooking oil,0.92,67,8.85,3,175,1,AC supported potassium fluoride,heterogeneous base,83
+palm oil,edible oil,0.9,60,24,30.3,64.1,1,AC supported potassium hydroxide,heterogeneous base,98.03
+rubber seed oil,non edible oil,0.93,150,9,9,65,0.666666667,CaO-based waste coral fragment,heterogeneous base,97
+rubber seed oil,edible oil,0.93,150,0.4,6,55,1.5,albizia lebbeck pods derived catalyst,heterogeneous base,97.2
+palm oil,edible oil,0.9,60,12,5,65,90,river snail shells-derived catalyst,heterogeneous base,98.5
+millettia pinnata oil,non edible oil,0.924,37,8,2.5,65,2,crab shell derived catalyst,heterogeneous base,94
+ulva fasciata,algae,,,9,2,90,6,catalyst derived from industrial waste,heterogeneous base,88
+soybean oil,edible oil,0.92,60,6.28,,220,10,carbon-based nanostructured catalyst,heterogeneous base,85
+waste cooking oil,waste cooking oil,0.92,67,12,5,80,0.666666667,coconut shell derived AC supported catalyst,heterogeneous base,91.3
+canola oil,edible oil,0.92,31,6,0.36,60,1.5,glycerol derived potassium alkoxide,heterogeneous base,95
+palm oil,edible oil,0.9,60,15,5,65,6,CaO derived from waste venus clam,heterogeneous base,97
+rubber seed oil,non edible oil,0.93,150,15,3.5,60,1,KOH supported on AC,heterogeneous base,89.3
+rubber seed oil,non edible oil,0.93,150,15,3.5,55,1,KOH supported on AC,heterogeneous base,89.81
+rubber seed oil,non edible oil,0.93,150,12,5,55,1,Fe supported on AC,heterogeneous base,96.1
+jatropha oil,non edible oil,0.92,37,6,0.004,65,48,NaOH,heterogeneous base,95
+jatropha oil,non edible oil,0.92,37,9,1,65,3,NaOH,heterogeneous base,99.9
+jatropha oil,non edible oil,0.92,37,6,1,65,0.002833333,KOH,heterogeneous base,90
+jatropha oil,non edible oil,0.92,37,6,0.6,60,1,NaOH,heterogeneous base,100
+jatropha oil,non edible oil,0.92,37,9,6,70,3,CaO,heterogeneous base,96.1
+jatropha oil,non edible oil,0.92,37,16,3,65,3,Na2ZrO3,heterogeneous base,99.9
+jatropha oil,non edible oil,0.92,37,15,2,150,4,Bi2O3-La2O3,heterogeneous base,93
+jatropha oil,non edible oil,0.92,37,24,4,65,6,CaO-La2O3,heterogeneous base,86.5
+jatropha oil,non edible oil,0.92,37,40,7,160,4,Zn8-Fe-C400,heterogeneous base,100
+jatropha oil,non edible oil,0.92,37,12,2.5,110,3,sulphated Zr-Al2O3,heterogeneous base,96
+jatropha oil,non edible oil,0.92,37,,5,65,8,Na2ZrO3,heterogeneous base,99.9
+jatropha oil,non edible oil,0.92,37,9,7,65,1.333333333,Na2Sio3-Ni/JRC,heterogeneous base,96.7
+jatropha oil,non edible oil,0.92,37,,3,250,4,metal salt Co(NO3)2,heterogeneous base,89
+jatropha oil,non edible oil,0.92,37,9,12,120,4,CaSO4/Fe2O3-SiO2,heterogeneous base,94
+jatropha oil,non edible oil,0.92,37,9,5,65,2,Sr2+-CaO/MgO,heterogeneous base,99.6
+jatropha oil,non edible oil,0.92,37,15,4,65,6,CaMgO & CaZnO,heterogeneous base,80
+jatropha oil,non edible oil,0.92,37,15,5,65,6,CaO-NiO and CaO-Nd2O3,heterogeneous base,80
+jatropha oil,non edible oil,0.92,37,15,15,55,1,Fe-Co-Ni-MgO,heterogeneous base,97.9
+jatropha oil,non edible oil,0.92,37,4,,55,48,enterobacter aerogenes,heterogeneous base,68
+soybean oil,edible oil,0.92,60,30,1,65,0.25,Cs-Na2ZrO3 basic heterogeneous,heterogeneous acid,98.8
+waste cotton seed oil,waste cooking oil,0.919,44,30,5,65,3.4,Ti/SiO2 nanoflowers,heterogeneous acid,98
+macaw palm oil,edible oil,0.88,5.9,9,2,65,5,strontium and nickel,heterogeneous acid,97
+canola oil,edible oil,0.92,31,24,5,65,3,Li/TiO2,heterogeneous acid,98
+sunflower oil,edible oil,0.92,60,9,3,65,3,CaO-based/Au nanoparticles,heterogeneous acid,95
+soybean oil,edible oil,0.92,60,4.6,15,70,4,CaO-K2O,heterogeneous acid,99
+cooking oil,edible oil,0.92,60,12,5,65,2.2,Zinc-doped calcium oxide,heterogeneous acid,98
+palm oil,edible oil,0.9,60,9,5,65,0.5,calcium oxide functionalized with strontium,heterogeneous acid,98.31
+waste cooking oil,waste cooking oil,0.92,67,10,8,90,2,FeCl3-modified resin,heterogeneous acid,92
+castor oil,non edible oil,0.96,450,12,5,60,5,Si-MMT-pH-SO3H,heterogeneous acid,89.8
+various oils,non edible oil,0.95,50,12,2.5,65,0.5,sodium silicate,heterogeneous acid,97
+rubber seed oil,non edible oil,0.93,150,9,9,65,0.666666667,sodium metasilicate,heterogeneous acid,97
+palm oil,edible oil,0.9,60,12,9,60,2,CaO,heterogeneous base,90
+scenedesmus obliquus lipid,algae,0.925,50,12,15,100,3,Tungstated zirconia,heterogeneous base,94.58
+canola oil,edible oil,0.92,31,7.6,5.3,60,2.5,calcined dolomite,heterogeneous base,96.6
+castor oil,non edible oil,0.96,450,8,11,55,1,Ni doped ZnO nanocatalyst,heterogeneous base,95.2
+waste cooking oil,waste cooking oil,0.92,67,10,3,90,2.5,magnetic SO4/Fe-Al-TiO2 solid acid,heterogeneous base,96
+waste cotton seed oil,waste cooking oil,0.919,44,40,10,65,4,mesoporous CeO2/Li/SBA-15,heterogeneous base,98
+palm oil,edible oil,0.9,60,8,5,65,2.5,30Ca/APB-700,heterogeneous base,93.4
+waste cooking oil,waste cooking oil,0.92,67,30,5,65,4,tungsten supported TiO2/SiO2,heterogeneous base,98
+soybean oil,edible oil,0.92,60,15,1,80,4,calcinated form of waste tucuma peels,heterogeneous base,97.3
+soybean oil,edible oil,0.92,60,36,8,65,2,magnetic LiFe5O8-LiFeO2,heterogeneous base,96.5
+oleic acid,edible oil,0.895,4.85,9,0.75,62,5,SO42-/La3+/C,heterogeneous base,98.3
+soybean oil,edible oil,0.92,60,36,6,160,3,Fe3O4-SiO2-CPTMS-amine,heterogeneous base,96
+soybean oil,edible oil,0.92,60,9,6,65,3,calcined marble slurry and hydroxyapatite,heterogeneous base,94
+date seed oil,edible oil,0.92,60,12,5,65,1.5,egg shell derived catalyst,heterogeneous base,93.5
+waste kernel oil,waste cooking oil,0.9,20,15,3,90,4,Mn-MgO-ZrO2,heterogeneous base,96.4
+sesame oil,edible oil,0.9275,23,6.7,1.8,31.9,0.671666667,Ba(OH)2,heterogeneous base,98.6
+palm oil,edible oil,0.9,60,36,8,,1,CaO,heterogeneous base,92.7
+jatropha oil,non edible oil,0.92,37,11,5.5,64,,CaO,heterogeneous base,95
+jatropha crude oil,non edible oil,0.92,200,20,20,60,0.666666667,activated carbon supported heteropolyacid,heterogeneous base,87.3
+soybean oil,edible oil,0.92,60,7,7,54,1.333333333,magnetic NaSiO3-Fe3O4/C,heterogeneous base,97.9
+soybean oil,edible oil,0.92,60,10,6,62,1,CaO,heterogeneous base,90
+canola oil,edible oil,0.92,31,7.5,5.3,60,2.5,CaO,heterogeneous base,99.4
+sunflower oil,edible oil,0.92,60,4,1.5,75,2,microcrystalline CaO,heterogeneous base,93
+rapeseed oil,edible oil,0.92,34,4,1.5,75,2,microcrystalline CaO,heterogeneous base,90
+soybean oil,edible oil,0.92,60,4,1.5,75,2,microcrystalline CaO,heterogeneous base,89
+palm oil,edible oil,0.9,60,14,2.5,65,2.5,Nano CaO,heterogeneous base,94
+palm oil,edible oil,0.9,60,14,2.5,65,2.5,Bulk CaO,heterogeneous base,90
+sunflower oil,edible oil,0.92,60,4,1.5,75,2,commercial Cao,heterogeneous base,76
+rapeseed oil,edible oil,0.92,34,4,1.5,75,2,commercial Cao,heterogeneous base,78
+soybean oil,edible oil,0.92,60,4,1.5,75,2,commercial Cao,heterogeneous base,77
+zanthoxyl umbungeanum seed oil,edible oil,0.92,22.6,11.69,2.52,65,2.45,CaO,heterogeneous base,96
+waste frying oil,waste cooking oil,0.94,100,12,5,60,4,commercial Cao,heterogeneous base,87
+neat semi-refined rape oil,edible oil,0.92,60,12,5,60,4,commercial Cao,heterogeneous base,97
+refined sunflower oil,edible oil,0.92,60,12,2,60,2,commercial Cao,heterogeneous base,99
+sunflower oil,edible oil,0.92,60,14,0.2,50,3,CaO,heterogeneous base,90
+soybean oil,edible oil,0.92,60,27,1.25,24,12,commerical nano-cystalline CaO,heterogeneous base,99
+soybean oil,edible oil,0.92,60,12,8,65,3,CaO,heterogeneous base,95
+soybean oil,edible oil,0.92,60,12,0.85,,1,calcined CaCO3,heterogeneous base,93
+rapeseed oil,edible oil,0.92,34,10.8,0.7,60,3,CaO,heterogeneous base,90
+rapeseed oil,edible oil,0.92,34,30,0.85,65,2.5,CaO,heterogeneous base,92
+sunflower oil,edible oil,0.92,60,13,1,60,1.5,CaO,heterogeneous base,94
+karanja oil,non edible oil,0.945,45,8,2.5,65,2.5,chicken eggshells,heterogeneous base,95
+palm oil,edible oil,0.9,60,15,7,60,1,commerical calcite,heterogeneous base,95.7
+sunflower oil,edible oil,0.92,60,6,7,65,,commerical CaO,heterogeneous base,100
+ethyl butyrate,non edible oil,0.875,0.36,4,,60,3,MgO/CaO,heterogeneous base,60
+glyceryl tributyrate,edible oil,1.032,10,310,27.7,60,3,Li/CaO,heterogeneous base,100
+food grade sunflower oil,edible oil,0.92,60,14,0.2,60,1.5,Li/CaO,heterogeneous base,90
+chinese tallow seed oil,non edible oil,0.92,30,12,4,65,2.5,KF/CaO,heterogeneous base,96.8
+palm oil,edible oil,0.9,60,12,6,65,5,CaO/y-Al2O3,heterogeneous base,98
+soybean oil,edible oil,0.92,60,9,3,150,,CaO/Al2O3,heterogeneous base,90
+palm oil,edible oil,0.9,60,65,10,60,3,CaO/Al2O3,heterogeneous base,94.3
+crude palm oil,edible oil,0.8875,77.19,12,6,60,3,CaO/palm oil mill fly ash,heterogeneous base,75.73
+soybean oil,edible oil,0.92,60,16,5,60,8,CaO/mesoporous silica,heterogeneous base,95.2
+sunflower oil,edible oil,0.92,60,12,1,60,5,CaO/SBA-15,heterogeneous base,95
+refined rapeseed oil,edible oil,0.92,45,18,2,64.5,6,CaO/MgO,heterogeneous base,92
+rapeseed oil,edible oil,0.92,34,12,5,60,2,Magnetic CaO hollow fiber,heterogeneous base,95.7
+soybean oil,edible oil,0.92,60,4,8,65,6,CaO/SnO2,heterogeneous base,89.3
+jatropha curcas oil,non edible oil,0.92,37,24,4,65,6,CaO-La2O3,heterogeneous base,86.51
+pistacia chinensis oil,non edible oil,0.918,60,30,9,100,3,CaO-CeO2,heterogeneous base,93
+palm oil,edible oil,0.9,60,20,5,85,3,CaO-CeO2,heterogeneous base,95
+waste cooking oil,waste cooking oil,0.92,67,30,10,65,2,CaO-ZrO2,heterogeneous base,92.1
+palm oil,edible oil,0.9,60,12,2.5,150,5,Ca3.5xZr0.5yAlxO3,heterogeneous base,87
+degummed soybean oil,edible oil,0.92,55,175,20,64.7,4,CSMO,heterogeneous base,88
+edible sunflower oil,edible oil,0.92,60,10,2,60,2,CaO-ZnO,heterogeneous base,92
+jatropha curcas oil,non edible oil,0.92,37,15,4,65,6,CaMgO and CaZnO,heterogeneous base,83
+palm kernel oil,edible oil,0.85,225,30,6,60,3,dolomite,heterogeneous base,98.6
+rapeseed oil,edible oil,0.92,34,15,6,65,3,Ca12Al14O33,heterogeneous base,94.34
+sunflower oil,edible oil,0.92,60,12,1,60,3,hydrocalumite,heterogeneous base,98
+soybean oil,edible oil,0.92,60,9,3,150,6,Ca(C3H7O3)2/n-Al2O3,heterogeneous base,82
+soybean oil,edible oil,0.92,60,12,2.5,,2,Ca(C3H7O3)2,heterogeneous base,88
+soybean oil,edible oil,0.92,60,12,3.5,,1,Ca(C3H7O3)2,heterogeneous base,70
+sunflower oil,edible oil,0.92,60,14,0.7,60,3,Ca(C3H7O3)2,heterogeneous base,90
+refined sunflower oil,edible oil,0.92,60,12,2,60,6,Ca(C3H7O3)2-CaO,heterogeneous base,99
+refined sunflower oil,edible oil,0.92,60,12,2,60,8,Ca(C3H7O3)2-Ca(OH)2,heterogeneous base,95
+soybean oil,edible oil,0.92,60,12,2.5,,1,Ca(OCH3)2,heterogeneous base,25
+soybean oil,edible oil,0.92,60,9,1,65,1.5,Ca(OCH3)2,heterogeneous base,90
+tributyrin,edible oil,1.032,3.3,6,2,60,4,Ca(OCH3)2,heterogeneous base,90
+refined sunflower oil,edible oil,0.92,60,7.5,4,65,2,Ca(OCH3)2,heterogeneous base,98
+sunflower oil,edible oil,0.92,60,6,5,60,2,Ca(OCH3)2,heterogeneous base,97
+palm oil,edible oil,0.9,60,12,1.5,65,2,CaO from eggshells,heterogeneous base,98
+sunflower oil,edible oil,0.92,60,6,1,80,5.5,CaO,heterogeneous base,91
+rapeseed oil,edible oil,0.92,34,6,1,65,3,KNO3/CaO,heterogeneous base,98
+jatropha curcas oil,edible oil,0.92,37,15,2,70,1.3,CaO/Fe3O4,heterogeneous base,95
+soybean oil,edible oil,0.92,60,12,9,60,2,Li/MgO - heterogeneous base,heterogeneous base,93.9
+mutton fat,animal fat,0.9315,3.2,22,4,65,0.3,KOH/MgO - heterogeneous base,heterogeneous base,98
+soybean oil,edible oil,0.92,60,7.5,3,60,1,sodium silicate - heterogeneous base,heterogeneous base,100
+neem oil,non edible oil,0.91,40,9,1,65,2,sulfated zirconia - heterogeneous acid,heterogeneous acid,95
+canola oil,edible oil,0.92,31,36,6,70,5,K/TiO2,heterogeneous acid-base,100
+sunflower oil,edible oil,0.92,60,12,10,115.5,2.5,WO3/Zr MCM-41,heterogeneous acid-base,79.7
+waste cooking palm oil,waste cooking oil,0.92,45,29,2.7,115.4,1.2,Sr/ZrO2,heterogeneous acid-base,79.7
+sunflower oil,edible oil,0.92,60,12,1,140,5,MnCeOx,heterogeneous acid-base,86
+brown grease,grease,0.97,3000,10,2,42,4,AlCl3.6H2O,heterogeneous acid,90
+Oleic acid-soybean oil,edible oil,0.926,50,20,3,200,10,CsHPW,heterogeneous acid,91
+crude palm oil,edible oil,0.8875,77.19,20,6,140,2,Ar-SBA-15,heterogeneous acid,90
+dodecanoic acid,edible oil,0.835,7.9,3,3,180,1,sulphate ZrO2,heterogeneous acid,96
+pure triolein,edible oil,0.9078,54.6,10,4,50,4,anion-cation exchange resin,heterogeneous acid,99
+soyabean oil,edible oil,0.92,60,5,0.5,60,1,modernite zeolite,heterogeneous acid,80
+soyabean oil,edible oil,0.92,60,5,0.5,60,1,H-type fauzasite zeolites,heterogeneous acid,75
+soyabean oil,edible oil,0.92,60,5,0.5,60,1,H+ ion exchanged ZSM-5,heterogeneous acid,80
+jatropha oil,edible oil,0.92,37,50,6,160,8,MPD-SO3H-IL,heterogeneous acid,94
+acid oil,edible oil,0.95,225,15,4,100,8,SiO2-Pr-SO3H,heterogeneous acid,97
+macaw palm oil,edible oil,0.88,5.9,90,20,210,4,H3PMo12O40(HPMo) supported on niobia,heterogeneous acid,99
+refined vegetable oil,edible oil,0.92,42.5,250,0.06,200,1,MgO,heterogeneous base,98
+soybean oil,edible oil,0.92,60,12,5,65,0.5,Sr/MgO,heterogeneous base,93
+chinese tallow kernel oil,edible oil,0.92,25,8,3,67,3,KNO3/MgO,heterogeneous base,94
+waste cooking oil,waste cooking oil,0.92,67,50,10,170,6,TiO2-MgO,heterogeneous base,91.6
+soybean oil,edible oil,0.92,60,20,3,150,6,MgO-ZrO2 nanomaterials(pore size 1-2),heterogeneous base,99
+soybean oil,edible oil,0.92,60,12,30,100,6,MgO-Li2O,heterogeneous base,96.2
+canola oil,edible oil,0.92,31,12.3,9.03,65,3.26,KOH/ZSM-5-Fe3O4,heterogeneous base,93.65
+soybean oil,edible oil,0.92,60,10,5,65,3,K/ZrO2/y-Fe2O3,heterogeneous acid-base,93
+sunflower oil,edible oil,0.92,60,6,0.25,60,0.5,CuO/Mg,heterogeneous base,82.83
+goat fat,animal fat,0.915,115,12,1,70,3,CaO,heterogeneous base,93.72
+chicken oil,animal fat,0.9,250,9,1,65,5,CaO,heterogeneous base,94.4
+lard oil,animal fat,0.92,75,5.5,0.9,50,0.75,Sr-Al double oxides,heterogeneous base,99.7
+chicken fat,animal fat,0.9,250,24,2,65,4,MgO / Na2O,heterogeneous base,95.22
+tallow oil,animal fat,0.94,300,12,3,60,1,Cs/Al/Fe3O4,heterogeneous base,97
+tannery waste,animal fat,1.1,25,12,6,65,5,Fe-Mn-SO4/ZrO2,heterogeneous base,96.6
