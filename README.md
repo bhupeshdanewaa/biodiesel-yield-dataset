@@ -11,7 +11,7 @@ This repository contains the biodiesel yield dataset along with a Python script 
   - Removing duplicate rows
   - Handling missing values (using column mean for numerical data and mode for categorical data)
   - Encoding categorical variables (via one-hot encoding)
-  - Saving the processed data as a new CSV file (`Gnanprakash_dataset_preprocessed.csv`)
+  - Saving the processed data as a new CSV file (`biodieselyield.csv`)
 
 ## Prerequisites
 
