@@ -4,7 +4,7 @@ This repository contains the biodiesel yield dataset along with a Python script 
 
 ## Repository Contents
 
-- **Gnanprakash dataset.csv**  
+- **biodieselyield.csv**  
   The raw dataset file containing biodiesel yield data.
 - **preprocessing.py**  
   A Python script that demonstrates basic data preprocessing steps:
